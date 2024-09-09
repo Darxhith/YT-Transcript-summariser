@@ -1,0 +1,10 @@
+http://127.0.0.1:5000/api/summarize?youtube_url=YOUR_YOUTUBE_VIDEO_URL
+
+
+Load the Extension in Firefox:
+
+Open Firefox.
+Go to about:debugging in the URL bar.
+Click on "This Firefox" in the left-hand menu.
+Click on "Load Temporary Add-on…".
+Navigate to your firefoxextension folder and select the manifest.json file.
